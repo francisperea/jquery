@@ -2,3 +2,9 @@
 	color:red;
 	background-color: gray;
 }
+
+.seleccionado{
+	font-size: 50px;
+	background-color: black;
+	color: white;
+}
