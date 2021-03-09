@@ -1,3 +1,5 @@
 $(document).ready(function() {
-  $("h1").addClass("cabecera");
+  $("button.siguiente").on("click", function (event) {
+    $("h1").addClass("cabecera");
+  });
 });
